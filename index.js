@@ -1,3 +1,6 @@
+
+
+
 let accordian = document.getElementsByClassName("FAQ__title");
 
 for (let i = 0; i < accordian.length; i++) {
